@@ -1,6 +1,4 @@
 # License-Plate-Detection-using-YOLOv8
-Our project is to detect Indian vehicle license plates as a representation of vehicle presence in an image. We have utilized You Only Look Once version 8 (YOLOv8) to detect the plates inside an input image. The method has the advantages of high accuracy and real-time performance, thanks to YOLOv8 architecture. The presented system receives a series of vehicle images and produces the processed image with added bounding-boxes containing the vehicles' license plates. This project can be used in parking area to keep track of every vehicle and make parking process easier.
-
 Built with:
 
 •	Python
